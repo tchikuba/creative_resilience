@@ -1,0 +1,2 @@
+# creative_resilience
+人生におけるミッションステートメント的な

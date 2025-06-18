@@ -4,7 +4,7 @@
 
 「クリエイティブが輝ける組織をエンジニアリングする」
 
-詳細は[こちら](https://github.com/tchikuba/creative_resilience)。
+詳細は[こちら](https://github.com/tchikuba/creative_resilience/blob/master/mission_statement.md)。
 
 ## 事業内容
 

@@ -18,6 +18,10 @@
 - Facebook: https://www.facebook.com/tchikuba/
 - Twitter: https://twitter.com/tchikuba
 
+## 情報セキュリティーポリシー
+
+詳細は[こちら](https://github.com/tchikuba/creative_resilience/blob/master/security_policy.md)。
+
 ## 代表者
 
 代表取締役 竹馬力（ちくばつとむ）

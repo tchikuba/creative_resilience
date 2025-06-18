@@ -22,6 +22,10 @@
 
 詳細は[こちら](https://github.com/tchikuba/creative_resilience/blob/master/security_policy.md)。
 
+## プライバシーポリシー
+
+詳細は[こちら](https://github.com/tchikuba/creative_resilience/blob/master/privacy_policy.md)。
+
 ## 代表者
 
 代表取締役 竹馬力（ちくばつとむ）
